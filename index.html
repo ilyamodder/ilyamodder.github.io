@@ -1,7 +1,7 @@
 <h1>Hello World!</h1>
 <script>
-  if (ref.match(/^https?:\/\/([^\/]+\.)?away\.vk\.com(\/|$)/i)) {
+  if (document.referrer.match(/^https?:\/\/([^\/]+\.)?away\.vk\.com(\/|$)/i)) {
     alert("Came from vk!");
     document.location = '/'
-}
+  }
 </script>
