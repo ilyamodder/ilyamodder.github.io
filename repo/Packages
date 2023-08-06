@@ -1,0 +1,16 @@
+Package: com.ixmoe.1pwn.Veteris
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Electimon <electimon@gmail.com>
+Depends: firmware (>= 5.0), appsync
+Filename: Veteris-v1.7.1.deb
+Size: 397866
+MD5sum: 1ef1f564ae1fc6b5d368c47ac69fdbae
+SHA1: fdd2c8722c315097643126ebff10bb6aa2c4f1f0
+SHA256: 46c656b4b498ac20a3dfb67bc79fac79ceaaccaf668c3a1dcb215a4a93b3a7ff
+Section: Utilities
+Homepage: http://1pwn.ixmoe.com/
+Description: A Client for the Veteris Server.
+Author: Electimon <electimon@gmail.com>
+Icon: file:///Applications/Veteris.app/AppIcon57x57@2x.png
+Name: Veteris
